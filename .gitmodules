@@ -1,0 +1,4 @@
+[submodule "ciel-it/mrp-rearrange-orders"]
+	path = ciel-it/mrp-rearrange-orders
+	url = git@github.com:ciel-it/mrp-rearrange-orders.git
+	branch = master
